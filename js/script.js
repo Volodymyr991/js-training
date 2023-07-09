@@ -1,13 +1,4 @@
-function calculateEngravingPrice(message, pricePerWord) {
-    // Change code below this line
-let totalPrice;
+let f=9;
 
-const ww = message.split(" ");
-
-totalPrice = message * [pricePerWord];
-
-console.log(message);
-
-return pricePerWord;
-    // Change code above this line
- }
+f+=2;
+console.log(f)

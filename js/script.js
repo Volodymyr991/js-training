@@ -1,1 +1,4 @@
-/[А-яЁё]+/g[Symbol.match]("получить самое длинное слово из строки")
+function findLongestWord(string) {
+    
+    
+  }
